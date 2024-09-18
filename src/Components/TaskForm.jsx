@@ -8,7 +8,6 @@ const TaskForm = () => {
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqcQOvtLJs3gkHLZRba7GcGtqxUpeOl-OK_XCYPbHjSdFmvbFSdI8G9atWEA&s"
         alt="Picture Not Available"
       /> */}
-      <img src="1st.png" height={"60%"} alt="My Image" className="img-head" />
       <form>
         <input
           type="text"
